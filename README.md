@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Target OpsKit
+> Find out everything you need to know to reliably scrape Target with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/target)
+
+This kit provides the blueprint for Target scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-target-scrapers)
 - [Scrapers By Language](#target-scrapers-by-language)
@@ -36,55 +47,54 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-target-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [operative-framework](https://github.com/graniet/operative-framework) ![img](https://github.com/graniet.png?size=20) | rust | ⭐ 708 | ✅ Yes | 2024-09-30 | ✅ |
-| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ![img](https://github.com/jordanpotti.png?size=20) | python | ⭐ 520 | ✅ Yes | 2022-03-07 | ✅ |
-| [Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) ![img](https://github.com/Cybrarist.png?size=20) | php | ⭐ 422 | ✅ Yes | 2025-04-15 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [operative-framework](https://github.com/graniet/operative-framework) ![img](https://github.com/graniet.png?size=20) | rust | ⭐ 708 | ❌ No | 2024-09-30 |
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ![img](https://github.com/jordanpotti.png?size=20) | python | ⭐ 520 | ❌ No | 2022-03-07 |
+| [Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) ![img](https://github.com/Cybrarist.png?size=20) | php | ⭐ 422 | ✅ Yes | 2025-04-15 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Target Scrapers By Language <a id="target-scrapers-by-language"></a>
-
-### Go
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [dorkscout](https://github.com/R4yGM/dorkscout) | ⭐ 236 | 2021-08-18 | — | ✅ Yes |
-
-
-### Java
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Universal-Web-Scraper](https://github.com/miguelangelo78/Universal-Web-Scraper) | ⭐ 31 | 2015-07-07 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) | ⭐ 520 | 2022-03-07 | immediate | ❌ No |
+| [leakScraper](https://github.com/Acceis/leakScraper) | ⭐ 412 | 2019-01-21 | professional | ❌ No |
+| [deal_scraper](https://github.com/WillNye/deal_scraper) | ⭐ 27 | 2023-05-22 | immediate | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [store-website-checker](https://github.com/apify-projects/store-website-checker) | ⭐ 11 | 2024-01-31 | — | ✅ Yes |
-| [scraper](https://github.com/Chmod351/scraper) | ⭐ 5 | 2024-10-19 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [store-website-checker](https://github.com/apify-projects/store-website-checker) | ⭐ 11 | 2024-01-31 | immediate | ❌ No |
+| [scraper](https://github.com/Chmod351/scraper) | ⭐ 5 | 2024-10-19 | immediate | ❌ No |
+
+
+### Go
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [dorkscout](https://github.com/R4yGM/dorkscout) | ⭐ 236 | 2021-08-18 | professional | ❌ No |
+
+
+### Java
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Universal-Web-Scraper](https://github.com/miguelangelo78/Universal-Web-Scraper) | ⭐ 31 | 2015-07-07 | professional | ❌ No |
 
 
 ### Php
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) | ⭐ 422 | 2025-04-15 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [CloudScraper](https://github.com/jordanpotti/CloudScraper) | ⭐ 520 | 2022-03-07 | — | ✅ Yes |
-| [leakScraper](https://github.com/Acceis/leakScraper) | ⭐ 412 | 2019-01-21 | — | ✅ Yes |
-| [deal_scraper](https://github.com/WillNye/deal_scraper) | ⭐ 27 | 2023-05-22 | — | ❌ No |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) | ⭐ 422 | 2025-04-15 | immediate | ✅ Yes |
 
 
 ### Rust
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [operative-framework](https://github.com/graniet/operative-framework) | ⭐ 708 | 2024-09-30 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [operative-framework](https://github.com/graniet/operative-framework) | ⭐ 708 | 2024-09-30 | professional | ❌ No |
 
 ---
 
@@ -115,7 +125,7 @@ Know a Target scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
