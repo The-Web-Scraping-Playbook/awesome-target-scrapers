@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Target OpsKit
-> Find out everything you need to know to reliably scrape Target with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/target)
+> Find out everything you need to know to reliably scrape Target with our new tool: [Ops Kit](https://scrapeops.io/websites/target)
 
 This kit provides the blueprint for Target scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -113,7 +113,7 @@ This kit provides the blueprint for Target scraping operations:
 ---
 
 ## 🧠 Target Tutorials & How-Tos<a id="target-tutorials"></a>
-- 📘 [How to Scrape Target at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-target/)
+- 📘 [How to Scrape Target at Scale](https://scrapeops.io/websites/target/how-to-scrape-target)
 - 🔐 [Web Scraping Target Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
